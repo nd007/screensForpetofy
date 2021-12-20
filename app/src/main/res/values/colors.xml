@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="whiteColor">#FFFFFF</color>
+
+
+
+
+
+
+
+
+
+    <color name="colorPrimary">#3366FF</color>
+    <color name="colorPrimaryDark">#3366FF</color>
+    <color name="colorAccent">#3366FF</color>
+
+    <color name="white_1">#F2F2F2</color>
+
+    <color name="black_color">#1a1a1a</color>
+    <color name="green_divider">#67C162</color>
+    <color name="list_background">#F4F5F9</color>
+    <color name="deactivate_red">#dd4b39</color>
+
+
+
+
+
+
+
+
+    <!--    grey....................-->
+    <color name="background_grey">#F5F7FA</color>
+    <color name="grey_transparent">#60c6c9ca</color>
+    <color name="grey_add_pet">#666666</color>
+    <color name="placeholder_bg">#dddddd</color>
+    <color name="grayColor">#3A3838</color>
+    <color name="grayColorCode">#808080</color>
+    <color name="grayColorCodeLight">#4AFDFCFC</color>
+    <color name="gray_code_dark">#4d4d4d</color>
+    <color name="grey_800">#424242</color>
+    <color name="gray_1">#333333</color>
+    <color name="gray_2">#4F4F4F</color>
+    <color name="gray_3">#828282</color>
+    <color name="gray_4">#BDBDBD</color>
+    <color name="gray_5">#E0E0E0</color>
+
+
+    <color name="gray_shimmer">#dddddd</color>
+
+    <color name="myColorTransparent" alpha="0.10">#ff853d</color>
+
+    <color name="light_yellow">#ff853d</color>
+    <color name="light_orange">#F6833C</color>
+
+    <color name="edit_text_border">#e0e0e0</color>
+
+    <color name="dark_green">#04E762</color>
+
+    <color name="light_pink">#FFB6C1</color>
+    <color name="light_grey">#d8d8d8</color>
+    <color name="light_blue_600">#FF039BE5</color>
+    <color name="light_blue_900">#FF01579B</color>
+    <color name="light_blue_A200">#FF40C4FF</color>
+    <color name="light_blue_A400">#FF00B0FF</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="insurance_card_bg">#0077bd </color>
+</resources>
